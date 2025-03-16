@@ -1,7 +1,10 @@
 import "global.css"
+import Navbar from "components/navBar/Nav"
 
 function App() {
   return (
+    <div>
+    <Navbar></Navbar>
     <main className='darkbg-zinc-900 darktext-gray-100 flex h-screen justify-center bg-blue-200 text-gray-900'>
       <section className='my-4 max-w-screen-md flex-col space-y-4 p-4'>
         <h1 className='text-3xl font-bold'>
@@ -25,6 +28,7 @@ function App() {
         </section>
       </section>  
     </main>
+    </div>
   );
 }
 
