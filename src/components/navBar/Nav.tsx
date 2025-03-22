@@ -39,8 +39,6 @@ const Navbar = () => {
             </a>
           </li>
         </ul>
-
-        {/* Hamburger Button */}
         <div className="md:hidden">
           <button onClick={toggleMenu} aria-label="navigation menu" className="text-white">
             <span className="block w-6 h-1 bg-white mb-1"></span>
