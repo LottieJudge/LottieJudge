@@ -13,18 +13,18 @@ function App() {
 
         <section>
           <h3 className='text-xl font-bold'>
-            Bootcamp trained Full-Stack Developr
+           Full-Stack Developr
           </h3>
           <br></br>
-          <h4 className='font-bold'>Projects:</h4>
-
+          <h4 className='font-bold'>Overview:</h4>
+          <br></br>
           <ul className='list-inside list-disc text-sm'>
-            <li>Tanstack Query ✅</li>
-            <li>Axios for networking ✅</li>
-            <li>Eslint ✅</li>
-            <li>Code conventions with and tailwind class sorting with prettier ✅</li>
-            <li>Relative paths ready ✅</li>
-            <li>classNames and tailwind-merge libraries installed with the `cn` function added ✅</li>
+            <li>Python </li>
+            <li>JavaScript: React, Next.Js, TypeScript </li>
+            <li>HTMl & CSS</li>
+            <li>Version Control</li>
+            <li>Will save worms and bees from these streets</li>
+            <li>Long distance runner == Great Zombie apocalypse partner </li>
           </ul>
         </section>
       </section>  
