@@ -13,9 +13,10 @@ function App() {
 
         <section>
           <h3 className='text-xl font-bold'>
-            a Starter Template for Full-stack React Projects with Routing and Jest 
+            Bootcamp trained Full-Stack Developr
           </h3>
-          <h4 className='font-bold'>What this starter includes:</h4>
+          <br></br>
+          <h4 className='font-bold'>Projects:</h4>
 
           <ul className='list-inside list-disc text-sm'>
             <li>Tanstack Query ✅</li>
